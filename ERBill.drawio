@@ -1,1 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T11:34:43.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="Hvoa0Ygb5y4sEfehLt82" type="github"><diagram id="64LDJqX5XkjxfU7fRjSf">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-17T04:05:54.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="yqbi5L9CetClrayKTUFJ" version="20.5.3" type="github">
+  <diagram id="64LDJqX5XkjxfU7fRjSf" name="Страница 1">
+    <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-1" value="Организация" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-2" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Реквизиты организации,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;поставщика услуг&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VVsT_AmObHCm8kMNTDGo-1">
+          <mxGeometry x="20" y="30" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-4" value="Пользователи" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVsT_AmObHCm8kMNTDGo-1" target="VVsT_AmObHCm8kMNTDGo-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-6" value="Адреса" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="200" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-7" value="Эталонный справочник АР" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VVsT_AmObHCm8kMNTDGo-6">
+          <mxGeometry x="15" y="30" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVsT_AmObHCm8kMNTDGo-6" target="VVsT_AmObHCm8kMNTDGo-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="430" as="sourcePoint" />
+            <mxPoint x="440" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-10" value="Услуги" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-11" value="Справочник услуг" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VVsT_AmObHCm8kMNTDGo-10">
+          <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-12" value="Дома" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="205" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-13" value="Справочник домов&lt;br&gt;с реквизитами, включая &lt;br&gt;перечень доступных услуг" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VVsT_AmObHCm8kMNTDGo-12">
+          <mxGeometry x="15" y="30" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVsT_AmObHCm8kMNTDGo-6" target="VVsT_AmObHCm8kMNTDGo-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVsT_AmObHCm8kMNTDGo-10" target="VVsT_AmObHCm8kMNTDGo-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="440" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

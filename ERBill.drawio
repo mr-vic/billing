@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T04:31:44.378Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="CJCQ2BjEqy8QGbqUcH5i" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T04:36:07.480Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xEJRC6WgXMACE2OYIo4R" version="20.5.3" type="github">
   <diagram id="64LDJqX5XkjxfU7fRjSf" name="Страница 1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -158,6 +158,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="430" y="480" as="sourcePoint" />
             <mxPoint x="480" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-43" value="Аналитика" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="642.5" y="440" width="207.5" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-44" value="Универсальный справочник&lt;br&gt;дополнительных свойств &lt;br&gt;объектов&lt;br&gt;(Сектор, участок и т.д)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VVsT_AmObHCm8kMNTDGo-43">
+          <mxGeometry x="12.5" y="30" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VVsT_AmObHCm8kMNTDGo-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="450" as="sourcePoint" />
+            <mxPoint x="560" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VVsT_AmObHCm8kMNTDGo-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="450" as="sourcePoint" />
+            <mxPoint x="550" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

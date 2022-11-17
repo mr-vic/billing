@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-17T04:14:44.473Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-KkJIZJvnjywtT9dacLL" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-17T04:17:15.143Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="gKwezHcsFsvxvWt-ALq9" version="20.5.3" type="github">
   <diagram id="64LDJqX5XkjxfU7fRjSf" name="Страница 1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="VVsT_AmObHCm8kMNTDGo-23" value="Лицевой счет абонента,&amp;nbsp;&lt;br&gt;с реквизитами" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="VVsT_AmObHCm8kMNTDGo-18">
           <mxGeometry x="22.5" y="30" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VVsT_AmObHCm8kMNTDGo-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVsT_AmObHCm8kMNTDGo-16" target="VVsT_AmObHCm8kMNTDGo-18">
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-19" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="VVsT_AmObHCm8kMNTDGo-16" target="VVsT_AmObHCm8kMNTDGo-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="400" as="sourcePoint" />
             <mxPoint x="440" y="350" as="targetPoint" />
@@ -86,6 +86,12 @@
             <Array as="points">
               <mxPoint x="10" y="230" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-27" value="Опция" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VVsT_AmObHCm8kMNTDGo-10">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="330" y="360" as="sourcePoint" />
+            <mxPoint x="360" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

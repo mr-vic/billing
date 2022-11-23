@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T09:29:57.240Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="IkB4edSb4Fr0wsFbh5To" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T05:30:17.178Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1Mq3BF-Pfpej5ulWlpog" version="20.5.3" type="github">
   <diagram id="64LDJqX5XkjxfU7fRjSf" name="Страница 1">
     <mxGraphModel dx="1422" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
             <mxPoint x="440" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VVsT_AmObHCm8kMNTDGo-6" value="Адреса" style="swimlane;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="VVsT_AmObHCm8kMNTDGo-6" value="Адреса" style="swimlane;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="35" y="170" width="205" height="106" as="geometry" />
         </mxCell>
         <mxCell id="VVsT_AmObHCm8kMNTDGo-7" value="Эталонный справочник АР +&lt;br&gt;внутренний справочник для&lt;br&gt;заливки данных &lt;br&gt;(ниже уровня населенного пункта)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="VVsT_AmObHCm8kMNTDGo-6" vertex="1">
